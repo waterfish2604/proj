@@ -7,3 +7,10 @@ if (5>2) {
 } else {
   console.log(`No`);
 }
+let forNumber = true;
+if (forNumber) {
+  console.log(`Nice!`);
+
+} else {
+  console.log(`Bad!`);
+}
